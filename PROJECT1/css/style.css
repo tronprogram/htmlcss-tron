@@ -1,0 +1,69 @@
+body{
+    color:#E0E0E0;
+    background: rgb(81,166,14);
+    background: linear-gradient(90deg, rgba(81,166,14,1) 0%, rgba(9,121,73,1) 35%, rgba(0,212,255,1) 100%);  
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+table, th, tr, td{
+
+    border: 1px solid;
+    width: 50%;
+    text-align: center;
+    
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 120;
+    text-align: center;
+}
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 90;
+}
+h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 60;
+}
+img{
+    display: block;
+    
+}
+.tablon{
+    margin: 0 auto;
+    border: 1px solid;
+    border-radius: 4px;
+    padding: 5px;
+}
+.meme{
+margin: 0 auto;
+border: 5px solid;
+border-radius: 4px;
+    padding: 5px;
+}
+.left{
+    width: 32.78%;
+    height: 70px;
+    float: left;
+    background: rgb(14,14,166);
+background: linear-gradient(90deg, rgba(14,14,166,1) 0%, rgba(67,9,121,1) 51%, rgba(0,212,255,1) 100%);
+    margin: 1.3px;
+}
+.center{
+width: 33.3% ;
+height: 70px;
+float: left ;
+background: rgb(14,14,166);
+background: linear-gradient(90deg, rgba(14,14,166,1) 0%, rgba(67,9,121,1) 51%, rgba(0,212,255,1) 100%);
+margin: 1.3px;
+}
+.right{
+    width:33.3% ;
+    float: right;
+    height: 70px;
+    background: rgb(14,14,166);
+background: linear-gradient(90deg, rgba(14,14,166,1) 0%, rgba(67,9,121,1) 51%, rgba(0,212,255,1) 100%);
+margin: 1.3px;
+}
+.div{
+padding: 5px;
+}
