@@ -23,7 +23,10 @@
 "javascript".indexOf("string")
 "javascript".substring(2, 4)
 
-const fecha = new Date()
-fecha.toString().split("")
-[4].split(":")[1]
+// const fecha = new Date()
+// fecha.toString().split("")
+// [4].split(":")[1]
 
+const fecha = new Date ()
+fecha.toString().split("")
+[4].split(":")[0]
